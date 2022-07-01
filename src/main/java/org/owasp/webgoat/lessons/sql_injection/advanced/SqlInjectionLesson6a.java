@@ -98,4 +98,4 @@ public class SqlInjectionLesson6a extends AssignmentEndpoint {
     }
 }
 
-  
+// this is a mike test yet again
